@@ -33,7 +33,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,figma,firebase,git,github,vscode,androidstudio&perline=9" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma,git,github,firebase,html,css&perline=10" />
 
 </div>
 
