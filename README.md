@@ -40,7 +40,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 ## 📊 GitHub
 
-<img src="https://streak-stats.demolab.com?user=Walidkamal-7r&background=17132D&border=2B1838&stroke=8E3B28&ring=C45A2C&fire=C45A2C&currStreakNum=F4EDE8&sideNums=F4EDE8&currStreakLabel=E8D9D2&sideLabels=E8D9D2&dates=BFA9A0&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Walidkamal-7r&background=F4EEEB&border=E2D2D0&stroke=8E3B28&ring=C45A2C&fire=C45A2C&currStreakNum=2B1838&sideNums=2B1838&currStreakLabel=8E3B28&sideLabels=5A4655&dates=8E7880&hide_border=true" />
 
 </div>
 
