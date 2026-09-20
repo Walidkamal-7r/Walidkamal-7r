@@ -4,8 +4,6 @@
 
 <br>
 
-# Flutter Developer
-
 ### Turning ideas into mobile experiences.
 
 <br>
@@ -16,10 +14,8 @@
 
 </div>
 
----
 <div align="center">
   
-## 👋 Hello, I'm Walid
 I'm a **Flutter Developer** passionate about building modern mobile applications and turning ideas into real products.
 
 I enjoy exploring new technologies, solving problems, and continuously improving the way I build software.
