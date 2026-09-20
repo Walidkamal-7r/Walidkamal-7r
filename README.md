@@ -46,7 +46,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C45A2C,50:8E3B28,100:17132D" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Walidkamal-7r&background=17132D&border=2B1838&stroke=8E3B28&ring=C45A2C&fire=C45A2C&currStreakNum=F4EDE8&sideNums=F4EDE8&currStreakLabel=E8D9D2&sideLabels=E8D9D2&dates=BFA9A0&hide_border=true" />
 
 <sub>© 2026 Walid Kamal • Flutter Developer</sub>
 
