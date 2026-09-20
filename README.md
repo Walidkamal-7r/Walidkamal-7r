@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Walid%20Kamal&fontSize=55&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Walid%20Kamal&fontSize=55&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&animation=fadeIn&color=0:17132D,50:2B1838,100:C45A2C&fontColor=F4EDE8" width="100%"/>
 
 ### Turning ideas into mobile experiences.
 
@@ -46,7 +46,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C45A2C,50:8E3B28,100:17132D" width="100%"/>
 
 <sub>© 2026 Walid Kamal • Flutter Developer</sub>
 
