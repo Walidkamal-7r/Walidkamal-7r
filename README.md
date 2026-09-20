@@ -50,12 +50,7 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Walidkamal-7r&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walidkamal-7r&layout=compact&hide_border=true&theme=transparent" height="165">
-
-
-
+<img src="https://streak-stats.demolab.com?user=Walidkamal-7r&theme=transparent&hide_border=true" />
 </div>
 
 ---
