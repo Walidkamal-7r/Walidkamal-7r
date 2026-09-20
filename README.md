@@ -24,17 +24,6 @@ I'm a **Flutter Developer** passionate about building modern mobile applications
 
 I enjoy exploring new technologies, solving problems, and continuously improving the way I build software.
 
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  📱  MOBILE        Flutter & Dart              │
-│  🎨  DESIGN        Figma                       │
-│  🧠  MINDSET       Learn • Build • Improve     │
-│  🛠️  TOOLS         Git • GitHub • VS Code      │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
@@ -109,22 +98,6 @@ I'm currently focused on:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### Coming Soon
-
-I'm building projects that will live here.
-
-<br>
-
-> **The best way to show what I can build is to build it.**
-
-</div>
-
----
-
 <div align="center">
 
 ## 📊 GitHub
@@ -144,42 +117,6 @@ I'm building projects that will live here.
 ---
 
 <div align="center">
-
-## 🧭 My Development Philosophy
-
-### Don't just write code. Build something people can use.
-
-<br>
-
-**IDEA**
-↓
-**DESIGN**
-↓
-**CODE**
-↓
-**TEST**
-↓
-**IMPROVE**
-↓
-**SHIP 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-I'm always open to learning, building, and connecting with other developers.
-
-<br>
-
-<a href="https://github.com/Walidkamal-7r">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
 
