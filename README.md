@@ -36,8 +36,6 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 </div>
 
----
-
 <br>
 
 **Learn → Build → Break → Fix → Improve**
@@ -52,8 +50,6 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 
 <img src="https://streak-stats.demolab.com?user=Walidkamal-7r&theme=transparent&hide_border=true" />
 </div>
-
----
 
 <div align="center">
 
