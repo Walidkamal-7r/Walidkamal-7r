@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Walid%20Kamal&fontSize=55&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
 ### Turning ideas into mobile experiences.
+
 <a href="https://github.com/Walidkamal-7r">
 <img src="https://img.shields.io/badge/GitHub-Walidkamal--7r-181717?style=for-the-badge&logo=github">
 </a>
