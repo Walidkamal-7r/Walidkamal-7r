@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Walid%20Kamal&fontSize=55&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br>
-
-### Turning ideas into mobile experiences.
-
-<br>
-
 <a href="https://github.com/Walidkamal-7r">
 <img src="https://img.shields.io/badge/GitHub-Walidkamal--7r-181717?style=for-the-badge&logo=github">
 </a>
+
+### Turning ideas into mobile experiences.
 
 </div>
 
@@ -26,8 +22,6 @@ I enjoy exploring new technologies, solving problems, and continuously improving
 <div align="center">
 
 ## ⚡ TECH STACK
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,figma,git,github,firebase&perline=10" />
 
